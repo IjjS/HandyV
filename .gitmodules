@@ -1,0 +1,3 @@
+[submodule "handyv-backend"]
+	path = handyv-backend
+	url = https://github.com/IjjS/handyv-backend.git
