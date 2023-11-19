@@ -1,6 +1,8 @@
 [submodule "handyv-backend"]
 	path = handyv-backend
 	url = https://github.com/IjjS/handyv-backend.git
+	branch = main
 [submodule "handyv-frontend"]
 	path = handyv-frontend
-	url = https://github.com/IjjS/handyv-frontend
+	url = https://github.com/IjjS/handyv-frontend.git
+	branch = main
